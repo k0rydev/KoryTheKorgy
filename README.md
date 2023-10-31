@@ -39,14 +39,13 @@ Github Stat
 </h2>
 
 <p>Overall Stats</p>
-<div style="overflow: hidden;justify-content:space-between;">
-    <div style="display: inline;">
-        <img alt="phamtruc-work's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" height="175px" align="left"/>
-    </div>
-    <div style="display: inline;">
-        <img alt="phamtruc-work's Streak Stats" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" height="175px"/>
-    </div>
-</div>
+<p align="center">
+    <img alt="phamtruc-work's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" height="192px"/>
+    <img alt="phamtruc-work's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtruc-work&layout=compact&theme=nord&hide_border=true&border_radius=6" height="192px"/>
+    <img alt="phamtruc-work's Streak Stats" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" height="192px"/>
+</p>
+        
+
 
 <p>My Contribution Graph</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=phamtruc-work&theme=nord&radius=10&hide_border=true">
