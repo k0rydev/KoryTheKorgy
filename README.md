@@ -34,6 +34,7 @@ Language - Framework - Tools
 <img alt="MySQL" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 </p>
 
+<details> 
 <h2>
 Github Stat
 </h2>
@@ -47,7 +48,7 @@ Github Stat
         <img alt="phamtruc-work's Streak Stats" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" height="175px"/>
     </div>
 </div>
-<br/>
 
 <p>My Contribution Graph</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=phamtruc-work&theme=nord&radius=10&hide_border=true">
+</details> 
