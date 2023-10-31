@@ -18,8 +18,8 @@ Github Stat
 </h2>
 
 <div align="center">
-<img height="182" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" alt="streak stats" align="left"/>
+<img height="179" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" alt="streak stats" align="left"/>
 
-<img height="182" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" alt="streak stats" align="right"/>
+<img height="179" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" alt="streak stats" align="right"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=phamtruc-work&theme=nord&radius=10&hide_border=true">
