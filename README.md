@@ -1,9 +1,7 @@
 <h1>
 Hi there👋! I'm Phạm Trúc or Kory.
 </h1>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtruc-work&layout=donut&theme=nord" alt="readme stats" align="right" height="200px"/>
-
+<img src="i use arch btw.png" align="right" height="250"/>
 <img src="https://readme-typing-svg.herokuapp.com/?font=Segeo-UI&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Phạm+Thạch+Thanh+Trúc;Kory+The+Korgy;CS+Major;Web+Dev+Beginner;Dev+Ops+Wannabe" />
 
 <ul>
