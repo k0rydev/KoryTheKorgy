@@ -40,12 +40,8 @@ Github Stat
 
 <p>Overall Stats</p>
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="phamtruc-work's Top Languages" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" height="180px"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="phamtruc-work's Github Stats" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" height="180px"/>
-</a>
+    <img alt="phamtruc-work's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" height="180px" align="left"/>
+    <img alt="phamtruc-work's Streak Stats" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" height="180px"/>
 </div>
 <br/>
 
