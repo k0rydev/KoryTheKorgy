@@ -19,7 +19,7 @@ Github Stat
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="176" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" alt="streak stats" align="right"/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="176" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" alt="streak stats"/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="176" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" alt="streak stats" align="left"/>
 
 
 <br/>
