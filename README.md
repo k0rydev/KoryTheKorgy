@@ -39,10 +39,10 @@ Github Stat
 
 <h3>💻 GitHub Profile Stats</h3>
 <p align="center">
-    <img alt="phamtruc-work's Github Stats" src="https://github-readme-stats.vercel.app/api?username=phamtruc-work&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" height="192px"/>
-    <img alt="phamtruc-work's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phamtruc-work&layout=compact&theme=nord&hide_border=true&border_radius=6" height="192px"/>
-    <img alt="phamtruc-work's Streak Stats" src="https://streak-stats.demolab.com/?user=phamtruc-work&count_private=false&theme=nord&border_radius=10&hide_border=true" height="192px"/>
+    <img alt="KoryTheKorgy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KoryTheKorgy&show_icons=true&theme=nord&rank_icon=percentile&show=discussions_answered&line_height=24&border_radius=10&hide_border=true" height="192px"/>
+    <img alt="KoryTheKorgy's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoryTheKorgy&layout=compact&theme=nord&hide_border=true&border_radius=6" height="192px"/>
+    <img alt="KoryTheKorgy's Streak Stats" src="https://streak-stats.demolab.com/?user=KoryTheKorgy&count_private=false&theme=nord&border_radius=10&hide_border=true" height="192px"/>
 </p>
         
 <h3>🔥 My Contribution</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phamtruc-work&theme=nord&radius=10&hide_border=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KoryTheKorgy&theme=nord&radius=10&hide_border=true">
